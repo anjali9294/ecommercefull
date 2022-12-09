@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.icon-title {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.navbar-nav .nav-item {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0 0.5rem;
+}
+.nav-item sup {
+  color: #ff3f6c;
+}
